@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"skipped","Mon Aug 19 18:40:08 TRT 2024","Mon Aug 19 18:40:08 TRT 2024","0","chromium","symphonySolutionsAPI.spec.ts","Symphony Solutions-API test","","","Check the Number of Posts to Ensure Integrity",""
+"passed","Mon Aug 19 18:40:07 TRT 2024","Mon Aug 19 18:40:07 TRT 2024","235","chromium","symphonySolutionsAPI.spec.ts","Symphony Solutions-API test","","","Create a New Post and Store its ID",""
+"passed","Mon Aug 19 18:40:07 TRT 2024","Mon Aug 19 18:40:07 TRT 2024","619","chromium","symphonySolutionsAPI.spec.ts","Symphony Solutions-API test","","","Read Total Number of Posts and Store in a Variable",""
+"skipped","Mon Aug 19 18:40:08 TRT 2024","Mon Aug 19 18:40:08 TRT 2024","1","chromium","symphonySolutionsAPI.spec.ts","Symphony Solutions-API test","","","Replace Some Field in the Created Post with PATCH",""
+"failed","Mon Aug 19 18:40:07 TRT 2024","Mon Aug 19 18:40:08 TRT 2024","118","chromium","symphonySolutionsAPI.spec.ts","Symphony Solutions-API test","","","Get Only the Created Post by ID",""
+"skipped","Mon Aug 19 18:40:08 TRT 2024","Mon Aug 19 18:40:08 TRT 2024","0","chromium","symphonySolutionsAPI.spec.ts","Symphony Solutions-API test","","","Delete the Created Post by ID",""
