@@ -1,0 +1,2 @@
+Total number of posts: 100
+Last element ID: 100

@@ -1,0 +1,2 @@
+New element ID: 101
+Total elements before creation: 100

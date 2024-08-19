@@ -1,0 +1,2 @@
+The ID of the post created in the previous test: 101
+ Created item status code:  404
